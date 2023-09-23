@@ -10,12 +10,12 @@
 
 a{
 	text-decoration: none;
-	background-color: white
+	background-color: white;
 }
 
 li{
 	list-style-type: none;
-	background-color: white
+	background-color: white;
 }
 
 #songs{
@@ -29,7 +29,7 @@ li{
 }
 
 ul{
-	background-color: white
+	background-color: white;
 }
 
 #media{
@@ -41,6 +41,4 @@ ul{
 
 video{
 	background-color: rgb(255, 255, 255); 
-	padding; 
-	border-radius
 }
