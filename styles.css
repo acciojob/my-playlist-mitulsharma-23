@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 *{
 	background-color: rgb(204, 204, 204);
-	z-index: 1;
+/* 	z-index: 1; */
 }
 
 .heading{
@@ -11,6 +11,7 @@
 a{
 	text-decoration: none;
 	background-color: white;
+	color: black;
 }
 
 li{
@@ -21,7 +22,7 @@ li{
 #songs{
 /* 	padding: 10px; */
 	margin: 10px;
-	z-index: 2;
+/* 	z-index: 2; */
 	background-color: white;
 	border: 1px solid black;
 	border-radius: 10px;
@@ -37,8 +38,15 @@ ul{
 	text-align: center;
 	border-radius: 10px;
 	padding-top: 10px;
+	margin: 10px;
+	border: 1px solid black;
 }
 
 video{
 	background-color: rgb(255, 255, 255); 
+}
+
+
+audio{
+	text-align:center;
 }
